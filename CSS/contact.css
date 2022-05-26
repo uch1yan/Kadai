@@ -1,0 +1,39 @@
+.contact-form{
+		margin:0 auto;
+    color: black;
+	}
+  .contact-form tr {
+    height: 7rem;
+  }
+
+	.contact-form table{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.contact-form th{
+		text-align:right;
+    padding-right: 10px;
+		width:150px;
+		white-space: nowrap;
+	}
+
+	.contact-form td{
+		background-color: #fff;
+	}
+
+.submit {
+  color: #fff;
+  font-size: 3rem;
+  padding: 10px;
+  background-color: #008B8B;
+  margin: 10px;
+  display: block;
+  margin: auto;
+  text-align: center;
+	border-color: transparent;
+}
+
+
+.submit:hover {
+  opacity: 0.5;
+}
