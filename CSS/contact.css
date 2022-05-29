@@ -26,13 +26,13 @@
   font-size: 3rem;
   padding: 10px;
   background-color: #008B8B;
-  margin: 10px;
-  display: block;
-  margin: auto;
-  text-align: center;
+	text-align: center;
 	border-color: transparent;
 }
 
+.contact-form div {
+	text-align: center;
+}
 
 .submit:hover {
   opacity: 0.5;
